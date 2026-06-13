@@ -21,3 +21,9 @@
 ##### | Devs | Sprint 3 | Gráficos de Evolução Física | 5 | Como Aluno, quero registrar peso e fotos para visualizar meu progresso em gráficos |
 ##### | Devs | Sprint 3 | Ambiente de Produção e Ajustes | 5 | Como Time de Devs, preciso migrar as tabelas e preparar o app para o público real |
 ##### | QA | Sprint 3 | Testes Finais de Homologação | 3 | Como QA, preciso validar todo o fluxo financeiro e de notificações para certificar a entrega |
+
+
+
+### Qual Design Pattern será utilizado?
+
+
